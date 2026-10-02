@@ -1,0 +1,8 @@
+##fileformat=VCFv4.2
+##source=example
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+1	10001	.	A	G	50	PASS	.
+1	10020	.	C	T	18	PASS	.
+1	10035	.	G	A	72	PASS	.
+1	10050	.	T	C	25	PASS	.
+1	10080	.	A	C	40	PASS	.
